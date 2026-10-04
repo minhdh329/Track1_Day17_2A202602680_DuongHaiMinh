@@ -1,4 +1,5 @@
 # Project Title
+AI Notes: Personal Learning Notes
 
 ## Thông tin cá nhân và nhóm
 
