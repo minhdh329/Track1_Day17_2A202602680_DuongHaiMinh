@@ -61,6 +61,13 @@ Câu hỏi sẽ dùng:
 "Hãy nhớ lại một lần bạn highlight rất nhiều nhưng sau đó không có thời gian gom lại thành một bản note tử tế. Việc đó kéo theo hậu quả gì khi bạn cần dùng lại kiến thức đó?" (Dùng Probe: Lúc đó bạn xử lý tình huống ra sao?)
 
 ## Ba câu trả lời ở chặng 4
-1. Câu hỏi nào đã giúp user kể một tình huống cụ thể? 
+1. Câu hỏi nào đã giúp user kể một tình huống cụ thể?
+Câu mở đầu (Story opener): "Kể mình nghe về lần gần nhất trong tuần qua, bạn đọc một tài liệu và đã highlight, đánh dấu lại khá nhiều ý quan trọng?" đã hoạt động hiệu quả nhất. Việc neo vào mốc thời gian cụ thể ("trong tuần qua") và hành vi rõ ràng ("highlight khá nhiều") giúp người được phỏng vấn ngay lập tức nhớ lại một tài liệu thực tế và kể lại theo trình tự, thay vì chia sẻ thói quen học tập chung chung.
 2. Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật? 
-3. Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?
+Cần kiềm chế việc ngắt lời hoặc mớm ý khi user đang mô tả cách họ xử lý các đoạn highlight (workaround). Ví dụ: Khi user nói "mình copy paste sang Notion", interviewer rất dễ có xu hướng hỏi chèn "Làm thế có mất thời gian không?" (câu hỏi đóng/dẫn dắt). Ở lần phỏng vấn thật, cần tĩnh lại và dùng các câu probe (đào sâu) trung tính hơn như: "Quá trình đó diễn ra trong bao lâu?" hoặc "Trong các bước đó, bước nào khiến bạn thấy tốn công nhất?".
+3. Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao? 
+Điểm sửa: Nhóm điều chỉnh lại câu hỏi Big 3 số 2 (Đào sâu Pain trong tổ chức Output). Câu gốc là "Ngay sau khi kết thúc buổi đọc/học đó, bạn đã xử lý phần những chỗ bị highlight... như thế nào?". Câu mới được đổi thành: "Khi phát sinh nhu cầu cần ôn lại kiến thức của bài học đó, bạn đã làm cách nào để tổng hợp lại các đoạn highlight?".
+Vì sao sửa: Trong lúc phỏng vấn thử, nhóm phát hiện ra nhiều user không có thói quen xử lý highlight ngay lập tức sau khi học xong, mà họ thường để dồn lại nhiều ngày cho đến khi sắp thi hoặc cần làm bài tập mới bắt đầu đi gom note. Việc giữ cụm từ "Ngay sau khi..." khiến user bối rối và trả lời là "mình không làm gì cả", làm đứt đoạn cuộc hội thoại và bỏ lọt hành vi thực tế của họ.
+
+## AI Support Log
+AI đã giúp tôi đặt câu hỏi nhưng câu hỏi có vể thiên về take note trong video hơn là note trong bài học trên Vlearn. Tôi đã tự biến tấu câu hỏi dựa trên những gợi ý của AI cho chuẩn xác hơn.
